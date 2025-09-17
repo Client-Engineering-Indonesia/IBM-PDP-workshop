@@ -22,3 +22,7 @@
 6. Here you are required to review if all business terms are successfuly imported -> if your view is same as below, click Publish button
 
  <img width="1728" height="802" alt="image" src="https://github.com/user-attachments/assets/e8ada518-c11f-45e6-843b-9065dcc68b87" />
+
+7. If you go back to Business terms page, you will see that all business terms are already published
+
+<img width="1728" height="707" alt="image" src="https://github.com/user-attachments/assets/70f9b837-9f55-4236-b29f-92474b9af4e5" />
