@@ -1,15 +1,7 @@
-# Lab 1 - Data Discovery & Classification, Data Masking and Access Control
-
-## 01 - Create connection
-
 ## 02 - Create categories
 
-## 03 - Create business terms
+1. Click hamburger icon in top-left side of the screen -> click Governance -> click Categories -> click Add category -> select Import from file
 
-## 04 - Create data protection rule
+<img width="1728" height="582" alt="image" src="https://github.com/user-attachments/assets/142880c4-84be-4abf-94e2-3abddee3a853" />
 
-## 05 - Curate and enrich data assets
-
-## 06 - Catalog the data
-
-## 07 - Review the catalog
+2. 
