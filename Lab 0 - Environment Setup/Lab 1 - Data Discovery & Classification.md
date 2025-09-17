@@ -14,10 +14,4 @@
 
 <img width="1728" height="989" alt="image" src="https://github.com/user-attachments/assets/3fc2844c-d0db-4d0b-a664-a9e5b2bbd1d4" />
 
-5. Go to Assets tab -> click New asset button -> type "connection" into search field -> select Connect to data source icon
-
-<img width="1598" height="502" alt="image" src="https://github.com/user-attachments/assets/99ab06e5-3df9-453d-82d4-349f8c1ade2f" />
-
-6. Type db2 in search field in the left side -> select IBM Db2
-
-<img width="1629" height="886" alt="image" src="https://github.com/user-attachments/assets/e627c839-5a98-4f5c-87a1-460fbb59aa25" />
+** Congrats! You have done setting up pre-requisites for lab 1
