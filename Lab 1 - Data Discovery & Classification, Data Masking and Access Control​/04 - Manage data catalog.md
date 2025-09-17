@@ -26,4 +26,5 @@
 
 7. Go to Access control tab -> click Add collaborators button -> select Add user -> type "user" in collaboratos field -> click Add button
 
+<img width="852" height="454" alt="image" src="https://github.com/user-attachments/assets/b5f4b81e-4007-4d17-be5a-3a2991e89e10" />
 
