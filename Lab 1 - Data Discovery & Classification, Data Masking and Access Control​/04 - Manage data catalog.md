@@ -28,3 +28,15 @@
 
 <img width="852" height="454" alt="image" src="https://github.com/user-attachments/assets/b5f4b81e-4007-4d17-be5a-3a2991e89e10" />
 
+8. Click profile icon in top navigation page -> Click Log out
+
+9. Now login with this credential:
+
+```
+Username: user
+Password: user
+```
+
+10. Go to catalog that you have created previously -> click CUSTOMER -> click Asset tab -> since you have applied data masking rule to any columns classified as "Personal Data", other user will see XXXXX in those columns
+
+<img width="1728" height="902" alt="image" src="https://github.com/user-attachments/assets/a5304fcc-f98a-4868-b395-e2967463669b" />
