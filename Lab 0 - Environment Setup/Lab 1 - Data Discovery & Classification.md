@@ -1,15 +1,3 @@
-# Lab 1 - Data Discovery & Classification, Data Masking and Access Control
+# Lab 1 - Data Discovery & Classification
 
-## 01 - Create connection
-
-## 02 - Create categories
-
-## 03 - Create business terms
-
-## 04 - Create data protection rule
-
-## 05 - Curate and enrich data assets
-
-## 06 - Catalog the data
-
-## 07 - Review the catalog
+1. Open this [link](https://cpd-cpd.apps.68bfefd680f5cc2abda9bf63.ap1.techzone.ibm.com) to access CP4D
