@@ -1,4 +1,6 @@
-<img width="1629" height="885" alt="image" src="https://github.com/user-attachments/assets/cfcfb216-03cc-4a0c-901c-e2e455a4ba16" />## 01 - Create connection
+## 01 - Create connection
+
+<img width="1629" height="885" alt="image" src="https://github.com/user-attachments/assets/cfcfb216-03cc-4a0c-901c-e2e455a4ba16" />
 
 1. Go to project that you have created previously in Lab 0 -> go to Assets tab -> click New asset button -> type "connection" into search field -> select Connect to a data source
 
