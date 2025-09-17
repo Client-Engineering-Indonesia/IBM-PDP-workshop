@@ -1,6 +1,6 @@
 # Lab 1 - Data Discovery & Classification, Data Masking and Access Control
 
-## 01 - Create connection, classification, category, and business terms
+## 01 - Create classification, category, and business terms
 
 ## 02 - Create data protection rule
 
