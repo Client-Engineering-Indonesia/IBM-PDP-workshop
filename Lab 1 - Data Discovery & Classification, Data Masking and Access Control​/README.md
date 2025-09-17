@@ -2,7 +2,7 @@
 
 ## 01 - Create connection
 
-## 02 - Create categories
+## 02 - Create classifications and categories
 
 ## 03 - Create business terms
 
