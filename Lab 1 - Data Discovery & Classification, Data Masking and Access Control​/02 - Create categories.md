@@ -7,3 +7,7 @@
 2. Name the category as "PDP Category"
 
 <img width="620" height="901" alt="image" src="https://github.com/user-attachments/assets/9b541ab3-a328-48a6-94eb-7ac1fc4a9631" />
+
+3. Check if your view is as same as below
+
+<img width="1728" height="924" alt="image" src="https://github.com/user-attachments/assets/fe939df7-31dc-43e5-9509-9c80741b04e6" />
