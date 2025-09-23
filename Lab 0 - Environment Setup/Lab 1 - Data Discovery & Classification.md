@@ -1,6 +1,6 @@
 # Lab 1 - Data Discovery & Classification
 
-1. Open this [link](https://cpd-cpd.apps.68bfefd680f5cc2abda9bf63.ap1.techzone.ibm.com) to access CP4D
+1. Open this [link]([https://cpd-cpd.apps.68bfefd680f5cc2abda9bf63.ap1.techzone.ibm.com](https://ibm-my.sharepoint.com/:x:/r/personal/latitia_pramudito_ibm_com/Documents/Client%20Engineering%20Indonesia/CE%20Workshop/%5BPDP%20Workshop%5D%20Sep%202025/Environment%20Setup.xlsx?d=w57209f4ad595485aaf10256cebb17c0e&csf=1&web=1&e=D8GMAW)) to access CP4D
 
 2. Enter your username and password - please ask your instructor
 
