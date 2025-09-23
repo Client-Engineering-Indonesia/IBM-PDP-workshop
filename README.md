@@ -4,7 +4,7 @@ Indonesia’s Personal Data Protection (PDP) Law is being progressively implemen
 
 In this interactive workshop, participants will gain both theoretical knowledge and practical, hands-on experience to better prepare their organizations for PDP compliance. The agenda is designed to mirror real-world roles and responsibilities, ensuring participants leave with actionable insights they can apply immediately.
 
-## Key Topics & Activities:
+## Key Topics & Activities
 
 1. Overview of Indonesia’s Personal Data Protection Law
 
