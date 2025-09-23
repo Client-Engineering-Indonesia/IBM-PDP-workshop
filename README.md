@@ -16,13 +16,11 @@ In this interactive workshop, participants will gain both theoretical knowledge 
 * Performing Data Discovery and Classification using IBM Knowledge Catalog.
 * Identifying, cataloging, and protecting sensitive and personal data across the enterprise.
 
-3. Hands-On Experience as a Data Privacy Officer
+3. Hands-On Experience as a Data Privacy Officer by conducting essential assessments such as:
 
-* Conducting essential privacy assessments such as:
 * Record of Processing Activity (RoPA)
 * Privacy Assessments
 * Data Protection Impact Assessments (DPIA)
-* Embedding privacy-by-design into daily operations.
 
 4. Use Case Sharing and Best Practices
 
