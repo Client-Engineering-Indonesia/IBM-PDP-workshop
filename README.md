@@ -29,3 +29,12 @@ In this interactive workshop, participants will gain both theoretical knowledge 
 * Implementing robust consent management frameworks to build trust with customers.
 
 By the end of this workshop, participants will not only have a stronger understanding of Indonesia’s PDP Law but will also experience first-hand how IBM solutions can help operationalize compliance, reduce risks, and establish sustainable governance practices.
+
+## Agenda
+
+<img width="1051" height="554" alt="image" src="https://github.com/user-attachments/assets/0d9bc7a4-7100-4067-ba1d-3bda983b18cd" />
+
+<i>
+Please note that the agenda listed above is for reference only and may not reflect the actual workshop time or duration.
+Workshop times and duration are subject to change.
+</I>
