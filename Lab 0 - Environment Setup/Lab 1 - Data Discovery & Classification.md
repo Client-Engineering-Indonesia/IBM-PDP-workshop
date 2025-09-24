@@ -10,7 +10,7 @@
 
 <img width="1728" height="510" alt="image" src="https://github.com/user-attachments/assets/f45e176c-ed80-4731-90f1-da556c35d0d0" />
 
-4. Set name of project -> click Create button
+4. Set name of project (for this workshop please include your name for example "Lab 1 - Data Discovery Project LB") -> click Create button
 
 <img width="1728" height="989" alt="image" src="https://github.com/user-attachments/assets/3fc2844c-d0db-4d0b-a664-a9e5b2bbd1d4" />
 
